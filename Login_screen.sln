@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Login_screen", "Login_screen\Login_screen.pyproj", "{4EDB18A6-B3B0-4BB3-9B3A-E1696EE34FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDB18A6-B3B0-4BB3-9B3A-E1696EE34FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDB18A6-B3B0-4BB3-9B3A-E1696EE34FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE08E08D-0B61-410F-AA1F-0350A04FCE6B}
+	EndGlobalSection
+EndGlobal
